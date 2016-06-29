@@ -1,0 +1,10 @@
+/*
+    colors:
+*/
+
+header, nav, section, aside, article, footer, video, audio, main {      display: block;
+}
+* {
+    padding:0;
+    margin:0;
+}
